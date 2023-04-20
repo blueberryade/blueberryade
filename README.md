@@ -3,7 +3,7 @@
     <h3> Hi there 👋</h3>
   <h3> 🫐 Contact </h3>
 
-<a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@blueberryade"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="mailto:blueberryade7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@blueberryade" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
   
   
