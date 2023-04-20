@@ -1,4 +1,7 @@
-### Hi there 👋
+
+## Hi there 👋
+
+#### 프론트엔드 개발자
 
 <br>
 
@@ -8,7 +11,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<br>
 
 🫐 About Me
 
@@ -18,3 +20,5 @@
 <br>
 
 ![blueberryade's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueberryade&show_icons=true&theme=tokyonight)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=B2A4FF&height=150&section=footer)
