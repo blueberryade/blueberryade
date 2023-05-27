@@ -20,7 +20,7 @@
 
  <br><br>
 
-![blueberryade's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueberryade&show_icons=true&theme=blueberry)
+<!-- ![blueberryade's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueberryade&show_icons=true&theme=blueberry) -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=150&section=footer)
 </div>
