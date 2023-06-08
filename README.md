@@ -1,11 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=250&section=header&text=blueberryade's%20GitHub&fontColor=FFFFFF&fontSize=50" />
     <h3> Hi there 👋</h3>
+    
   <h3> 🫐 Contact </h3>
+<p>✉️ Email: blueberryade7@gmail.com </p> 
 
-<a href="mailto:blueberryade7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
-  
   
 <h3>🛠 Front-end Stacks</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
