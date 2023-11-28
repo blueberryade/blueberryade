@@ -29,9 +29,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
- <h4>Data-Analysis</h4>
- <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-3B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+
 
  </div>
 <!-- ![blueberryade's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueberryade&show_icons=true&theme=blueberry) -->
