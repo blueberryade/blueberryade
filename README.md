@@ -1,13 +1,12 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=250&section=header&text=blueberryade's%20GitHub&fontColor=FFFFFF&fontSize=50" />
-<!--     <h3> Hi there 👋</h3>
-     <strong>2022.10 - 2023.04  </strong> <p> 프론트엔드 부트캠프 과정</p>
-     <strong>2023.09~ </strong> <p>데이터사이언스 과정</p> -->
-
+<!--     <h3> Hi there 👋</h3> -->
 
   <h3> 🫐 Contact </h3>
 <p>✉️ Email: blueberryade7@gmail.com </p> 
-
+<p>⭐️ Blog: https://velog.io/@blueberryade/posts </p>
+<!-- <p><a href="https://velog.io/@blueberryade/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a></p> -->
+<br>
 
   
 <h3>🛠 Stacks</h3>
